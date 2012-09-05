@@ -1,0 +1,10 @@
+body {
+    font: 80% "Trebuchet MS", serif;
+    margin: 50px;
+    /*width: 80%;*/
+    background: url("../res/bg.png") repeat scroll 0 0 transparent;
+}
+
+.headers {
+    margin-top: 2em;
+}
